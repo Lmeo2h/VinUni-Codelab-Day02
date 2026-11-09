@@ -1,3 +1,11 @@
+> **Tên nhóm:** L3B - [Tên nhóm của bạn]  
+> **Danh sách thành viên:**  
+> 1. Nguyễn Tấn Châu — `chau010804@gmail.com` 
+> 2. Vũ Bá Tùng Lâm — `lamvu980204@gmail.com`  
+> 3. Mai Xuân Khang— `maixkhang2004@gmail.com`  
+> 4. Trương Đức Phát — `phat1605@gmail.com`  
+
+---
 # Lab 02 · Deep Dive Report
 ## Vinhomes AI Resident Complaint Router
 ### Hệ thống hỗ trợ phân loại và điều hướng phản ánh cư dân bằng AI
