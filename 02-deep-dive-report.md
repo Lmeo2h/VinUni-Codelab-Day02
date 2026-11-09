@@ -1,4 +1,4 @@
-> **Tên nhóm:** L3B - [Tên nhóm của bạn]  
+> **Tên nhóm:** Nhóm VoDanh 
 > **Danh sách thành viên:**  
 > 1. Nguyễn Tấn Châu — `chau010804@gmail.com` 
 > 2. Vũ Bá Tùng Lâm — `lamvu980204@gmail.com`  
